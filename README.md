@@ -1,0 +1,2 @@
+# ANEM-TG
+This source code concerns the development of a Harvard 16 bits microcontroller based in the MIPS microprocessors. The microcontroller was developed entirely in VHDL and implemented in a Cyclone II FPGA donated by Altera. It has a reduced instruction set of constant size. This last characteristic facilitated the inclusion of a pipeline with five stages. Peripherals are disposed in a modular way that permits easy addition or deletion of new elements using a simple mapping of data memory.
